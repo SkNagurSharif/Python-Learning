@@ -22,7 +22,10 @@ def main_menu():
     print("8. Fulfill Reservations")
     print("9. Search for an Item by Title")
     print("10. Check and Charge Fines")
-    print("11. Exit")
+    print("11. search by author")
+    print("12. Recommendation ")
+    print("13. renew item")
+    print("14. Exit")
     choice = input("Enter your choice: ")
     return choice
 
