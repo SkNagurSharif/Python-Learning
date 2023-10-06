@@ -1,4 +1,11 @@
-import random
-# Apple
+class pyth:
+    def ab():
+        print("method 1")
 
-print(" This is my Python learning Profile")
+    def bc():
+        print("method 2")
+
+    print("Hi")
+
+
+pyth
